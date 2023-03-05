@@ -22,12 +22,12 @@ int main() {
     printf("Merhaba. Öğrenci sistemine hoş geldiniz.\n");
     
     int ogrenci_numarasi1 = 123456;
-    char ogrenci_ismi1[100]="Serpil";
-    char ogrenci_soy_ismi1[100]="Üstebay";
+    char ogrenci_ismi1[100]="Kaan";
+    char ogrenci_soy_ismi1[100]="Duman";
     
     int ogrenci_numarasi2 = 123457;
-    char ogrenci_ismi2[100]="Ayşe";
-    char ogrenci_soy_ismi2[100]="Gül";
+    char ogrenci_ismi2[100]="Atlas";
+    char ogrenci_soy_ismi2[100]="Duman";
     
     ekle(ogrenci_numarasi1,ogrenci_ismi1,ogrenci_soy_ismi1);
     ekle(ogrenci_numarasi2,ogrenci_ismi2,ogrenci_soy_ismi2);
